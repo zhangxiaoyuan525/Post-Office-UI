@@ -1,0 +1,23 @@
+{
+    "name": "Tina",
+    "parcels": [
+        {
+            "postage": 16,
+            "heading": "teddy bear",
+            "postmark": true,
+            "name": "Tina",
+            "weight": 8,
+            "category": "Normal",
+            "status": true
+        },
+        {
+            "postage": 95,
+            "heading": "rice",
+            "postmark": true,
+            "name": "Tina",
+            "weight": 25,
+            "category": "Heavy",
+            "status": true
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Erica",
+  "parcels": [{
+    "postage": 70,
+    "heading": "apple",
+    "postmark": false,
+    "name": "Erica",
+    "weight": 20,
+    "category": "Heavy",
+    "status": false
+  },
+    {
+      "postage": 1,
+      "heading": "postcard",
+      "postmark": false,
+      "name": "Ken",
+      "weight": 0.5,
+      "category": "Normal",
+      "status": false
+    }]
+}

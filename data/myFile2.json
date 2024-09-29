@@ -1,0 +1,12 @@
+{
+    "name": "Frank",
+    "parcels": [{
+        "postage": 10,
+        "heading": "books",
+        "postmark": true,
+        "name": "Frank",
+        "weight": 5,
+        "category": "Normal",
+        "status": true
+    }]
+}
